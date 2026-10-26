@@ -1,2 +1,2 @@
 from GAbin import GA
-from CromosomaDecimal import CromosomaDecimal
+from CromosomaOctal import CromosomaOctal
